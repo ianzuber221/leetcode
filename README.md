@@ -1,2 +1,2 @@
-# leetcode
-My leetcode progress
+# Leetcode
+My daily leetcode progress!
