@@ -5,11 +5,10 @@
 var isValid = function(s) {
     if(s.length === 1) return false;
     // split string into array
-    s = s.split('');
     const stack = [];
     let result = true;
 // iterate from start and end of the array 
-    s.forEach((paren) => {
+    for(const paren of s) {
         if(paren === '('|| paren === '{' || paren === '[' ) stack.push(paren);
         
         console.log(stack[stack.length-1] === '(' && paren === ')')
@@ -23,7 +22,7 @@ var isValid = function(s) {
             } else{ result = false}
         }
         
-    })
+    }
     if(stack.length > 0) return false;
     return result;
 };
