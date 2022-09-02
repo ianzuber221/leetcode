@@ -9,8 +9,6 @@ var isValid = function(s) {
 // iterate from start and end of the array 
     for(const paren of s) {
         if(paren === '('|| paren === '{' || paren === '[' ) stack.push(paren);
-        
-        console.log(stack[stack.length-1] === '(' && paren === ')')
         if(paren === ')' || paren === ']' || paren === '}'){
             if(stack[stack.length-1] === '(' && paren === ')'){
                 stack.pop();
