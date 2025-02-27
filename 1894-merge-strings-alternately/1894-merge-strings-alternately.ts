@@ -5,17 +5,10 @@ function mergeAlternately(word1: string, word2: string): string {
         if(num1) {
             result.push(num1)
         i++;
-            }else{
-                result.push(word2.slice(j))
-                return result.join('')
             }
         if(num2) {
             result.push(num2)
         j++;
-        }else{
-            result.push(word1.slice(i))
-            return result.join('')
-
         }
     }
     return result.join('');
