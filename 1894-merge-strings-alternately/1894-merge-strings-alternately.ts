@@ -6,13 +6,16 @@ function mergeAlternately(word1: string, word2: string): string {
             result.push(num1)
         i++;
             }else{
-                result = [...result, num2.slice(j)]
+                result.push(word2.slice(j))
+                return result.join('')
             }
         if(num2) {
             result.push(num2)
         j++;
         }else{
-            result = [...result, num1.slice(i)]
+            result.push(word1.slice(i))
+            return result.join('')
+
         }
     }
     return result.join('');
