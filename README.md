@@ -9,6 +9,7 @@ My daily leetcode progress!
 | [0001-two-sum](https://github.com/ianzuber221/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/ianzuber221/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ianzuber221/leetcode/tree/master/0035-search-insert-position) |
+| [0283-move-zeroes](https://github.com/ianzuber221/leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ My daily leetcode progress!
 | ------- |
 | [0027-remove-element](https://github.com/ianzuber221/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ianzuber221/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/ianzuber221/leetcode/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/ianzuber221/leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
