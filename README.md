@@ -51,4 +51,12 @@ My daily leetcode progress!
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ianzuber221/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ianzuber221/leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ianzuber221/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
