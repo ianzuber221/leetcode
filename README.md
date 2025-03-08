@@ -38,6 +38,7 @@ My daily leetcode progress!
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ianzuber221/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ianzuber221/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -46,6 +47,7 @@ My daily leetcode progress!
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ianzuber221/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ianzuber221/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Interactive
 |  |
@@ -59,4 +61,12 @@ My daily leetcode progress!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ianzuber221/leetcode/tree/master/0206-reverse-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ianzuber221/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ianzuber221/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
