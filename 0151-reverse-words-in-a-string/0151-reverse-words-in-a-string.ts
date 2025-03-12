@@ -1,14 +1,15 @@
 function reverseWords(s: string): string {
     const resultArr= [] 
     let word = []
-    for(const char of s){
+    for(let i = s.length-1; i>=0; i--){
+        const char = s[i]
         if(char != ' '){
-            word.push(char)
+            word.unshift(char)
         }else if(word.length){
             resultArr.push(word.join(''))
             word =[]
         }
     }
     if(word.length)  resultArr.push(word.join(''))
-    return resultArr.reverse().join(' ')
+    return resultArr.join(' ')
 };
