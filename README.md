@@ -10,6 +10,7 @@ My daily leetcode progress!
 | [0027-remove-element](https://github.com/ianzuber221/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ianzuber221/leetcode/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/ianzuber221/leetcode/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/ianzuber221/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,4 +83,8 @@ My daily leetcode progress!
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ianzuber221/leetcode/tree/master/0392-is-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ianzuber221/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
