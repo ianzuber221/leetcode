@@ -22,6 +22,7 @@ My daily leetcode progress!
 | [0151-reverse-words-in-a-string](https://github.com/ianzuber221/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ianzuber221/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ianzuber221/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/ianzuber221/leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/ianzuber221/leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -29,6 +30,7 @@ My daily leetcode progress!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ianzuber221/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/ianzuber221/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ianzuber221/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/ianzuber221/leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/ianzuber221/leetcode/tree/master/1894-merge-strings-alternately) |
 ## String Matching
 |  |
@@ -76,4 +78,8 @@ My daily leetcode progress!
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ianzuber221/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/ianzuber221/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
