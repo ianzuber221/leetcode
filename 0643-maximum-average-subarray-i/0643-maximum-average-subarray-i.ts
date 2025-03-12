@@ -9,11 +9,6 @@ function findMaxAverage(nums: number[], k: number): number {
         right++
         left++
         while(right <= nums.length){
-            // if(k > 1 && nums[right] <= nums[left - 1]){
-            //     left++
-            //     right++
-            //     continue
-            // }
             sum+=nums[right]
             sum -= nums[left - 1]
             const average = sum / k
