@@ -1,19 +1,18 @@
 function reverseVowels(s: string): string {
-    const array:any[] = s.split(""), vowels = [];
-    for(const [ind,char] of array.entries()){
-        if(['a','e','i','o','u'].includes(char.toLowerCase())){
-            vowels.push(char)
-            array[ind] = false
+    const array:any[] = s.split(""), vowels = ['a','e','i','o','u'];
+    let left = 0, right = array.length-1
+    while(left < right){
+        while(!vowels.includes(array[left].toLowerCase()) && left < right){
+            left++
         }
-    }
-    let vowelInd = vowels.length - 1
-    while(vowelInd >= 0){
-        for(const [ind,char] of array.entries()){
-            if(!char){
-                array[ind] = vowels[vowelInd]
-                vowelInd--
-            } 
+        while(!vowels.includes(array[right].toLowerCase()) && left < right){
+            right--
         }
+        let temp = array[right]
+        array[right] = array[left]
+        array[left] = temp
+        left++
+        right--
     }
     return array.join('')
 };
