@@ -4,5 +4,6 @@ function uniqueOccurrences(arr: number[]): boolean {
         if(!hash[num]) hash[num] = 1
         else hash[num]++
     }
-    return Object.values(hash).length === new Set(Object.values(hash)).size
+    const hashValues = Object.values(hash)
+    return hashValues.length === new Set(hashValues).size
 };
