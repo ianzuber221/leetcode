@@ -87,6 +87,7 @@ My daily leetcode progress!
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ianzuber221/leetcode/tree/master/0392-is-subsequence) |
+| [1236-n-th-tribonacci-number](https://github.com/ianzuber221/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -96,4 +97,12 @@ My daily leetcode progress!
 | ------- |
 | [0724-find-pivot-index](https://github.com/ianzuber221/leetcode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/ianzuber221/leetcode/tree/master/1833-find-the-highest-altitude) |
+## Math
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/ianzuber221/leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/ianzuber221/leetcode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
