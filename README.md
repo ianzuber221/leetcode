@@ -10,6 +10,7 @@ My daily leetcode progress!
 | [0027-remove-element](https://github.com/ianzuber221/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ianzuber221/leetcode/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/ianzuber221/leetcode/tree/master/0283-move-zeroes) |
+| [0605-can-place-flowers](https://github.com/ianzuber221/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ianzuber221/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ianzuber221/leetcode/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/ianzuber221/leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -115,4 +116,8 @@ My daily leetcode progress!
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ianzuber221/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/ianzuber221/leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
