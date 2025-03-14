@@ -11,6 +11,7 @@ My daily leetcode progress!
 | [0035-search-insert-position](https://github.com/ianzuber221/leetcode/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/ianzuber221/leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/ianzuber221/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1833-find-the-highest-altitude](https://github.com/ianzuber221/leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,4 +88,8 @@ My daily leetcode progress!
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ianzuber221/leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/ianzuber221/leetcode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
