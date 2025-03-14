@@ -18,6 +18,7 @@ My daily leetcode progress!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ianzuber221/leetcode/tree/master/0001-two-sum) |
+| [0208-implement-trie-prefix-tree](https://github.com/ianzuber221/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1319-unique-number-of-occurrences](https://github.com/ianzuber221/leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
@@ -34,6 +35,7 @@ My daily leetcode progress!
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ianzuber221/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/ianzuber221/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/ianzuber221/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ianzuber221/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ianzuber221/leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/ianzuber221/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -105,4 +107,12 @@ My daily leetcode progress!
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/ianzuber221/leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ianzuber221/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ianzuber221/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
