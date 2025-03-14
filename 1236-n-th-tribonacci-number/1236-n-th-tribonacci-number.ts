@@ -14,7 +14,6 @@ function tribonacci(n: number): number {
     const recurse = (num = 3) => {
         let trib = t0 + t1 + t2
         if(num === n) return trib
-        console.log(trib)
         t0 = t1
         t1 = t2
         t2 = trib
