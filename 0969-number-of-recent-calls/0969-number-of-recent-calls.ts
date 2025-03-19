@@ -1,15 +1,18 @@
 class RecentCounter {
     constructor() {
     }
-    recentReqs = []
+    private recentReqs = []
     ping(t: number): number {
         this.recentReqs.push(t)
         let ind  = this.recentReqs.length - 1, numOfReqs = 0
         const range = this.recentReqs[ind] - 3000
-        console.log(t,range)
         while(ind >= 0){
-            if(this.recentReqs[ind] >= range) numOfReqs++
+            if(this.recentReqs[ind] >= range){
+            numOfReqs++
             ind--
+            } else{
+                return numOfReqs
+            }
         }
         return numOfReqs
     }
