@@ -112,6 +112,7 @@ My daily leetcode progress!
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ianzuber221/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0969-number-of-recent-calls](https://github.com/ianzuber221/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Trie
 |  |
 | ------- |
@@ -120,4 +121,12 @@ My daily leetcode progress!
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/ianzuber221/leetcode/tree/master/0605-can-place-flowers) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/ianzuber221/leetcode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/ianzuber221/leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
