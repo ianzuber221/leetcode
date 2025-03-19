@@ -2,19 +2,13 @@ class RecentCounter {
     constructor() {
     }
     private recentReqs = []
+    
     ping(t: number): number {
-        this.recentReqs.push(t)
-        let ind  = this.recentReqs.length - 1, numOfReqs = 0
-        const range = this.recentReqs[ind] - 3000
-        while(ind >= 0){
-            if(this.recentReqs[ind] >= range){
-            numOfReqs++
-            ind--
-            } else{
-                return numOfReqs
-            }
+        while(this.recentReqs.length > 0 && this.recentReqs[0] < t - 3000){
+            this.recentReqs.shift()
         }
-        return numOfReqs
+        this.recentReqs.push(t)
+        return this.recentReqs.length
     }
 }
 
