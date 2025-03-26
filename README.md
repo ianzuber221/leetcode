@@ -40,6 +40,7 @@ My daily leetcode progress!
 | [0345-reverse-vowels-of-a-string](https://github.com/ianzuber221/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ianzuber221/leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/ianzuber221/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/ianzuber221/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -129,4 +130,12 @@ My daily leetcode progress!
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/ianzuber221/leetcode/tree/master/0969-number-of-recent-calls) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/ianzuber221/leetcode/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/ianzuber221/leetcode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
